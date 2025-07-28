@@ -1,0 +1,70 @@
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+
+.vscode/
+.idea/
+.netbeans/
+.eclipse/
+.intellij/
+
+# Build and Compilation Files
+
+node_modules/
+build/
+dist/
+target/
+tmp/
+out/
+release/
+debug/
+
+# Package Manager Files
+
+package-lock.json
+yarn.lock
+npm-debug.log
+
+# Log Files
+
+*.log
+logs/
+
+# Temporary Files
+
+*.tmp
+tmp/
+temp/
+
+# Binary Files
+
+*.exe
+*.dll
+*.deb
+*.rpm
+*.pkg
+*.dmg
+
+# Archive Files
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+
+# Miscellaneous
+
+.env
+.env.*
+*.secret
+*.key
+coverage/
+*.min.js
+*.min.css
