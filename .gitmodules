@@ -7,3 +7,6 @@
 [submodule "syslinux"]
 	path = syslinux
 	url = https://github.com/geneC/syslinux.git
+[submodule "mintty"]
+	path = mintty
+	url = https://github.com/mintty/mintty.git
